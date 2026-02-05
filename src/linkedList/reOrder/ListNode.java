@@ -1,4 +1,4 @@
-package linkedList.ReOrder;
+package linkedList.reOrder;
 
 public class ListNode {
     public int val;

@@ -1,6 +1,6 @@
-package linkedList.RemoveNode;
+package linkedList.removeNode;
 
-import linkedList.ReOrder.ListNode;
+import linkedList.reOrder.ListNode;
 
 public class RemoveNthNodeFromEnd {
 

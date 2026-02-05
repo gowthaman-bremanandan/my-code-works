@@ -1,6 +1,6 @@
-package linkedList.AddNumbers;
+package linkedList.addNumbers;
 
-import linkedList.ReOrder.ListNode;
+import linkedList.reOrder.ListNode;
 
 public class AddTwoNumbers {
 

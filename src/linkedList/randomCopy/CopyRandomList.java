@@ -1,4 +1,4 @@
-package linkedList.RandomCopy;
+package linkedList.randomCopy;
 
 import java.util.HashMap;
 import java.util.Map;

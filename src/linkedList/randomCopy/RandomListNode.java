@@ -1,4 +1,4 @@
-package linkedList.RandomCopy;
+package linkedList.randomCopy;
 
 public class RandomListNode {
     int val;
