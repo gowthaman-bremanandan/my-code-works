@@ -1,4 +1,4 @@
-package dynamicPrograming.oned.countPalindromicSubstrings;
+package dynamicProgramming.oned.countPalindromicSubstrings;
 
 public class CountPalindromicSubstrings {
 

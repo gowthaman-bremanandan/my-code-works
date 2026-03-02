@@ -1,6 +1,4 @@
-package dynamicPrograming.oned.partitionEqualSubsetSum;
-
-import java.util.Arrays;
+package dynamicProgramming.oned.partitionEqualSubsetSum;
 
 public class PartitionEqualSubsetSum {
 

@@ -1,4 +1,4 @@
-package dynamicPrograming.oned.longestPalindromicSubstring;
+package dynamicProgramming.oned.longestPalindromicSubstring;
 
 public class LongestPalindromicSubstring {
 

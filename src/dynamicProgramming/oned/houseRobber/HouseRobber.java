@@ -1,4 +1,4 @@
-package dynamicPrograming.oned.houseRobber;
+package dynamicProgramming.oned.houseRobber;
 
 public class HouseRobber {
 

@@ -1,4 +1,4 @@
-package dynamicPrograming.oned.longestIncreasingSubsequence;
+package dynamicProgramming.oned.longestIncreasingSubsequence;
 
 public class LongestIncreasingSubsequence {
 

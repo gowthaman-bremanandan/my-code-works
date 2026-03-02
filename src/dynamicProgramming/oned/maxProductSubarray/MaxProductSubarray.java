@@ -1,4 +1,4 @@
-package dynamicPrograming.oned.maxProductSubarray;
+package dynamicProgramming.oned.maxProductSubarray;
 
 public class MaxProductSubarray {
 
