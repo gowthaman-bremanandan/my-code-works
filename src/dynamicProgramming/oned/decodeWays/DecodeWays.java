@@ -1,4 +1,4 @@
-package dynamicPrograming.oned.decodeWays;
+package dynamicProgramming.oned.decodeWays;
 
 public class DecodeWays {
 

@@ -1,4 +1,4 @@
-package dynamicPrograming.oned.wordBreak;
+package dynamicProgramming.oned.wordBreak;
 
 import java.util.*;
 
